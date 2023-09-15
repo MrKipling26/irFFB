@@ -89,6 +89,7 @@ understeerCoefs usteerCoefs[] = {
     { "dallaraf3",          38.0f, 102.0f },
     { "dallarair18",        44.0f, 110.0f },
     { "dallarap217",        44.0f, 110.0f },
+    { "ferrari296gt3",      52.0f, 78.0f  },
     { "ferrari488gt3",      52.0f, 78.0f  },
     { "ferrarievogt3",      54.0f, 80.0f  },
     { "ferrari488gte",      44.0f, 82.0f  },
